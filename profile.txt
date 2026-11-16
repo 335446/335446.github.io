@@ -6,9 +6,9 @@
 
 name=Lara Gebhart
 
-title1=TEST
+title1=Materstudent Coporate Communication Management
 
-title2=TEST 2
+title2=Working student in content marketing
 
 expertise=Content Marketing, Coporate Communication
 
