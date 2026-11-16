@@ -15,7 +15,7 @@ expertise=Content Marketing, Coporate Communication
 education=Bachelor of Arts in Public Relations
 
 email=gebhartl@hs-pforzheim
-linkedin=
+linkedin=www.linkedin.com/in/lara-gebhart
 
 about1=
 about2=
