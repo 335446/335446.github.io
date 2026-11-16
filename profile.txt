@@ -10,7 +10,7 @@ title1=TEST
 
 title2=TEST 2
 
-expertise=Internet Marketing, AI Applications, Agentic AI
+expertise=
 
 education=
 
