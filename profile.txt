@@ -17,9 +17,9 @@ education=Bachelor of Arts in Public Relations
 email=gebhartl@hs-pforzheim
 linkedin=www.linkedin.com/in/lara-gebhart
 
-about1=Hochschule Pforzheim
-about2=EnBW
-about3=Handball
+about1=Student at Hochschule Pforzheim,
+about2=Working student at EnBW,
+about3=Handball is my favorite hobby
 about4=
 
 phone=
